@@ -1,0 +1,38 @@
+[
+    {
+        "product_title": "Nike Men Perforated Air Force 1 '07 Sneakers",
+        "brand_name": "Nike",
+        "price": 7495,
+        "original_price": 7495,
+        "discount_percent": 0,
+        "rating": 4.4,
+        "delivery_info": ""
+    },
+    {
+        "product_title": "Nike Men COURT VISION Sneakers",
+        "brand_name": "Nike",
+        "price": 4995,
+        "original_price": 4995,
+        "discount_percent": 0,
+        "rating": 4.3,
+        "delivery_info": ""
+    },
+    {
+        "product_title": "HRX by Hrithik Roshan Unisex Back To School Shoes",
+        "brand_name": "HRX by Hrithik Roshan",
+        "price": 999,
+        "original_price": 3699,
+        "discount_percent": 70,
+        "rating": 3.8,
+        "delivery_info": ""
+    },
+    {
+        "product_title": "WROGN Men Woven Design Running Shoes",
+        "brand_name": "WROGN",
+        "price": 1379,
+        "original_price": 2999,
+        "discount_percent": 54,
+        "rating": 0,
+        "delivery_info": ""
+    }
+]
